@@ -3,6 +3,6 @@
   "channel": "release",
   "version": "0.5.5",
   "package_url": "https://github.com/straight0219/kuang-boss-timer/releases/download/v0.5.5/KuangBossTimer_setup_0.5.5.exe",
-  "sha256": "B0776A1D4506198DD9EBAA8C32F7D50B07769B18F8CDC0F2A896F3DE6DA4091C",
+  "sha256": "b0776a1d4506198dd9ebaa8c32f7d50b07769b18f8cdc0f2a896f3de6da4091c",
   "notes": "자동 업데이트를 진행합니다"
 }
