@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "channel": "release",
-  "version": "0.5.6",
-  "package_url": "https://github.com/straight0219/kuang-boss-timer/releases/download/v0.5.6/KuangBossTimer_setup_0.5.6.exe",
-  "sha256": "441605E2F3D8E9095BD528BC89A165B73D1DEBFA7498A021CD5807A6802C1A4A",
+  "version": "0.5.7",
+  "package_url": "https://github.com/straight0219/kuang-boss-timer/releases/download/v0.5.7/KuangBossTimer_setup_0.5.7.exe",
+  "sha256": "85493F6A3168E5B8CA35543BBEB3BA70430377962CD6542B54B147A24B69023E",
   "notes": "자동 업데이트를 진행합니다"
 }
