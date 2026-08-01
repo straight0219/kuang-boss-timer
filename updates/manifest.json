@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "channel": "release",
-  "version": "0.6.0",
-  "package_url": "https://github.com/straight0219/kuang-boss-timer/releases/download/v0.6.0/KuangPVE_setup_0.6.0.exe",
-  "sha256": "43615785ec614a4fc5a131a5e5e36b077f9385f0079394911ac18eeeffb23d7d",
+  "version": "0.6.1",
+  "package_url": "https://github.com/straight0219/kuang-boss-timer/releases/download/v0.6.1/KuangPVE_setup_0.6.1.exe",
+  "sha256": "2e00946e13eadffe9fa31a5b6c8c6587fcf04b8fb569472a097474b12a195555",
   "notes": "자동 업데이트를 진행합니다"
 }
