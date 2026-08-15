@@ -1,10 +1,10 @@
 {
     "schema_version":  2,
     "channel":  "release",
-    "version":  "0.7.4",
+    "version":  "0.7.5",
     "kind":  "installer",
-    "package_url":  "https://github.com/straight0219/kuang-boss-timer/releases/download/v0.7.4/KuangPVE_setup_0.7.4.exe",
-    "sha256":  "b516a1552da7ccfbf6bf07c3c5a7b6d316233434b36edffadca3ee1be8dba3c0",
-    "size":  71634302,
-    "notes":  "크앙PVE v0.7.4 정식 배포"
+    "package_url":  "https://github.com/straight0219/kuang-boss-timer/releases/download/v0.7.5/KuangPVE_setup_0.7.5.exe",
+    "sha256":  "afc35c7a772ff13a7cfbad63c2dc25aab6ca12b686cc5dce30c45c8e7f9ddd4a",
+    "size":  71675935,
+    "notes":  "# 크앙 PVE v0.7.5 업데이트\n\n\n##  :wrench:기능개선\n- 앱 실행 관련 최적화가 진행됐습니다.\n  - 앱 실행 속도가 빨라집니다.\n  - 앱 종료시 간혹 크러시가 발생되는 경우를 최소화 했습니다.\n- 앱 경량화가 진행됐습니다.\n\n\n## :bug: 버그 수정\n  - 크앙앱 삭제시 온전히 삭제되지 않는 현상을 수정했습니다.\n\n\n##  :art: UI/UX 개선\n- 단일 체크리스트에서 체크 애니메이션이 적용됩니다.\n  - 어떤 항목을 체크했는지 인식할 수 있도록 지연을 추가했습니다.\n"
 }
