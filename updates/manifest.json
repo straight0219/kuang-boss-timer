@@ -1,10 +1,10 @@
 {
     "schema_version":  2,
     "channel":  "release",
-    "version":  "0.7.6",
+    "version":  "0.7.7",
     "kind":  "installer",
-    "package_url":  "https://github.com/straight0219/kuang-boss-timer/releases/download/v0.7.6/KuangPVE_setup_0.7.6.exe",
-    "sha256":  "c16d27a921e71eb324c3d51a363fa521b1aa7ab6b6ddb7e58b06cce08fac552f",
-    "size":  79947070,
-    "notes":  "크앙 PVE v0.7.6 업데이트"
+    "package_url":  "https://github.com/straight0219/kuang-boss-timer/releases/download/v0.7.7/KuangPVE_setup_0.7.7.exe",
+    "sha256":  "cff59f8bbd9b181fdf57860f558632ba0b1820dd4c1f481712ae87e330bd7580",
+    "size":  79941275,
+    "notes":  "v0.7.7"
 }
