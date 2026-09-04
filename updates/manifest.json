@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "channel": "release",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "kind": "installer",
-  "package_url": "https://github.com/straight0219/kuang-boss-timer/releases/download/v0.8.0/KuangPVE_setup_0.8.0.exe",
-  "sha256": "6047f33f041dd43fd10d996b4950fea4aebd942f5fed8482de1fcaad5fa3b432",
-  "size": 72058206,
-  "notes": "v0.8.0",
+  "package_url": "https://github.com/straight0219/kuang-boss-timer/releases/download/v0.8.1/KuangPVE_setup_0.8.1.exe",
+  "sha256": "2e50c25c6010ebd5441c3b58c0d070b356050eeaa01983b855840c064ea761ca",
+  "size": 72077192,
+  "notes": "v0.8.1",
   "signature_alg": "Ed25519",
   "signature_key_id": "1e520d7884e3458a",
-  "signature_b64": "TDsmOPEhDYfjnTFjUJzlxnI5zulCLZ8jBM3uC8kE8Dhu85ywj4cP9WbWeU6xtbN8WjbB5ilQK9J2dh79YkUvCA=="
+  "signature_b64": "YqXHZswqhLUSl4EkLla4ylkGr/2QrT9wkMZ3vXF2oZzwgC2HxN9Qgz2tTh+KnqTtLFdfc11CveZMvvQONX7UDA=="
 }
